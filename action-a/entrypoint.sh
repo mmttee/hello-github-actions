@@ -1,3 +1,3 @@
 #!/bin/sh -l
 
-sh -c "date"
+sh -c "uname -a"
